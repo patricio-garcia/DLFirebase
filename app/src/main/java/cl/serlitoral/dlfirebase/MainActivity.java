@@ -1,4 +1,4 @@
-package cl.serlitoral.myapplication;
+package cl.serlitoral.dlfirebase;
 
 import androidx.appcompat.app.AppCompatActivity;
 

@@ -1,4 +1,4 @@
-package cl.serlitoral.myapplication;
+package cl.serlitoral.dlfirebase;
 
 import org.junit.Test;
 
